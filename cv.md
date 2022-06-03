@@ -6,7 +6,7 @@ pozdnyakoks@mail.ru
 **Info**
 Junior Frontend-Developer
 HTML, CSS, JS, GIT
-My projects [GitHub Pages](https://github.com/pozdnyakoks)
+[My projects] (https://github.com/pozdnyakoks)
 
 **Education, courses**
 SkillBox, SoloLearn JS, Hexlet, RS School
