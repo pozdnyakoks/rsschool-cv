@@ -44,7 +44,7 @@ for (let i = 0; i < arr2.length; i++) {
 
 ---
 
-[My projects] (https://github.com/pozdnyakoks)
+[**My projects**](https://github.com/pozdnyakoks)
 
 ---
 
